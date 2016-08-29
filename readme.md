@@ -19,7 +19,7 @@ Dependencies:
 ```javascript
 var inspect = require('unist-util-inspect');
 var remark = require('remark');
-var toHAST = require('mdast-util-to-hast');
+var toHAST = require('@mizchi/mdast-util-to-hast');
 ```
 
 Transform:
