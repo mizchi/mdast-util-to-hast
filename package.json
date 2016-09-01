@@ -1,6 +1,6 @@
 {
   "name": "@mizchi/mdast-util-to-hast",
-  "version": "1.0.0-p1",
+  "version": "1.0.0-p2",
   "description": "Transform MDAST to HAST",
   "license": "MIT",
   "keywords": [
